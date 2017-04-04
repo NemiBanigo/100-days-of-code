@@ -15,3 +15,12 @@ Lots to re-read about, lists, dicts, classes etc. Not come very far but think an
 **Thoughts:** Need to make using objects feel more natural
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+### Day 2: April 04, 2017
+
+**Today's Progress**: Defined lots of classes for NPC's using inheritance. Starting to get a hang of how it works.
+Also read a bunch of stuff on balancing game stats/exp gain etc. Not really relevant at this stage, need to get more stuff working before worrying about it. Done some minor functions for damage for the player as well, hard to figure out the best way to solve the problem. The code is the easy part, the how is whats hard.
+
+**Thoughts:** Less thinking about feature K when im still implementing feature B, build a core, then expand.
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
