@@ -24,3 +24,12 @@ Also read a bunch of stuff on balancing game stats/exp gain etc. Not really rele
 **Thoughts:** Less thinking about feature K when im still implementing feature B, build a core, then expand.
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+### Day 3: April 05, 2017
+
+**Today's Progress**: Did a bunch of class methods and started working on an event class. Have done alot of "drawing" out how to handle the mechanics of the game class wise. 
+
+**Thoughts:** The hard part is always defining the problem and how to solve it, the code part, so far, is easy.
+Already i feel my grip on OOP has become much better when not following a tutorial or a guide. When i have to define a problem, solve it and then code it the reason for using OOP suddenly feels much more natural than just following guides on how to use them.
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
