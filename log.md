@@ -33,3 +33,11 @@ Also read a bunch of stuff on balancing game stats/exp gain etc. Not really rele
 Already i feel my grip on OOP has become much better when not following a tutorial or a guide. When i have to define a problem, solve it and then code it the reason for using OOP suddenly feels much more natural than just following guides on how to use them.
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+### Day 4: April 06, 2017
+
+**Today's Progress**: Banging my head against super in multiple class inheritance. It runs now, not sure if im doing it right...
+
+**Thoughts:** Bloody forehead..
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
