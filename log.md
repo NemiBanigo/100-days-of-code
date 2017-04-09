@@ -41,3 +41,12 @@ Already i feel my grip on OOP has become much better when not following a tutori
 **Thoughts:** Bloody forehead..
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+
+### Day 5,6,7: April 09, 2017
+
+**Today's Progress**: Weekend to Paris, managed to code on the plan both ways but missed saturday.
+
+**Thoughts:** Coding without google is HARD!
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
