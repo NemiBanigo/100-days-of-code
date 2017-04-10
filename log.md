@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 03, 2017
+### Day 1: April 03, 2017
 
 Bit of PowerShell to get started
 ```powershell
@@ -48,5 +48,14 @@ Already i feel my grip on OOP has become much better when not following a tutori
 **Today's Progress**: Weekend to Paris, managed to code on the plan both ways but missed saturday.
 
 **Thoughts:** Coding without google is HARD!
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+
+### Day 8: April 10, 2017
+
+**Today's Progress**: Fought with using threads to read user input while preserving the while loop game thread. Like always the solution, once in hand, was quite simple.
+
+**Thoughts:** Threads are awesome, lets abuse them and break everything!
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
