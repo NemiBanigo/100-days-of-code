@@ -59,3 +59,11 @@ Already i feel my grip on OOP has become much better when not following a tutori
 **Thoughts:** Threads are awesome, lets abuse them and break everything!
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+### Day 9: April 11, 2017
+
+**Today's Progress**: Fixed typed commands to fully work, tried different methods of exiting the program (seems os.exit() works best in multiple threads). Fixed a few errors showing up once more methods worked and discovered more needing fixing. Guess thats the downside of getting more of the code thats never actually been run to run, you realised it does'nt work :)
+
+**Thoughts:** Writing code without testing it NEVER works once you test it.
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
