@@ -67,3 +67,12 @@ Already i feel my grip on OOP has become much better when not following a tutori
 **Thoughts:** Writing code without testing it NEVER works once you test it.
 
 **Link to work:** [Game Project](https://github.com/Wrexthor/Game01)
+
+### Day 10: April 12, 2017
+
+**Today's Progress**: Could not muster motivation to work on my current game today, so instead made a tic tac toe game. Managed to get everything except the vitctory condition running. Did most of it with no tutorial as i don't want to copy code but actually have to solve problems on my own.
+
+**Thoughts:** Don't follow tutorials too much.
+
+**Link to work:** [Game Project](https://github.com/Wrexthor/Tic-Tac-Toe)
+
