@@ -74,5 +74,13 @@ Already i feel my grip on OOP has become much better when not following a tutori
 
 **Thoughts:** Don't follow tutorials too much.
 
-**Link to work:** [Game Project](https://github.com/Wrexthor/Tic-Tac-Toe)
+**Link to work:** [Tic Tac Toe](https://github.com/Wrexthor/Tic-Tac-Toe)
+
+### Day 11: April 12, 2017
+
+**Today's Progress**: Basically completed the game with uninportant features like winning, preventing cheating, keeping the game running, score and input validation.
+
+**Thoughts:** if not worked wierd today, will have to read further as why it did not work..
+
+**Link to work:** [Tic Tac Toe](https://github.com/Wrexthor/Tic-Tac-Toe)
 
