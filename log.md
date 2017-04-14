@@ -76,11 +76,19 @@ Already i feel my grip on OOP has become much better when not following a tutori
 
 **Link to work:** [Tic Tac Toe](https://github.com/Wrexthor/Tic-Tac-Toe)
 
-### Day 11: April 12, 2017
+### Day 11: April 13, 2017
 
 **Today's Progress**: Basically completed the game with uninportant features like winning, preventing cheating, keeping the game running, score and input validation.
 
 **Thoughts:** if not worked wierd today, will have to read further as why it did not work..
 
 **Link to work:** [Tic Tac Toe](https://github.com/Wrexthor/Tic-Tac-Toe)
+
+### Day 12: April 14, 2017
+
+**Today's Progress**: Bad motivation today. Started with an ant simulator game but got stuck at pathfinding and generating random objects on a map grid. Might take it up again later but pathfinding might need to be a module or something rather than done from scratch, it seems HARD!
+
+**Thoughts:** Sometimes wanting too much makes you hit a wall, KISS (keep it simple, stupid)!
+
+**Link to work:** Did't upload it yet
 
