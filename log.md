@@ -92,3 +92,13 @@ Already i feel my grip on OOP has become much better when not following a tutori
 
 **Link to work:** Did't upload it yet
 
+### Day 13: April 15, 2017
+
+**Today's Progress**: Running out of ideas so i took to the internetz and started going through the projects over at http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+Only did the reverse string and a semi working pig-latin today. Feels like it will be a good way to develop, even if the projects are a bit boring at times. Pig latin will continue tomorrow.
+
+**Thoughts:** Going outside of ones comfort zone is always a good way to learn.
+
+**Link to work:** Not wasting space on github, so no link
+
+
