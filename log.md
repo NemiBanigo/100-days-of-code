@@ -101,4 +101,11 @@ Only did the reverse string and a semi working pig-latin today. Feels like it wi
 
 **Link to work:** Not wasting space on github, so no link
 
+### Day 14: April 16, 2017
+
+**Today's Progress**: Did a simple RSS feed reader (mostly stole the code tbh, but at least i understood it) and a few simple count words/vowels functions. Still doing the bare minimum, need to get that motivation back for longer sessions.
+
+**Thoughts:** If you steal code, understand every part of it before running it.
+
+**Link to work:** Not wasting space on github, so no link
 
