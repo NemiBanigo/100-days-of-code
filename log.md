@@ -3,6 +3,7 @@
 ### Day 1: April 03, 2017
 
 Bit of PowerShell to get started
++ 1 days missed so far
 ```powershell
 (get-date).AddDays(100)
 den 12 juli 2017 14:22:22
