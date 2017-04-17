@@ -110,3 +110,12 @@ Only did the reverse string and a semi working pig-latin today. Feels like it wi
 
 **Link to work:** Not wasting space on github, so no link
 
+
+### Day 15: April 17, 2017
+
+**Today's Progress**: Redid RSS reader with my own "words", making the code a lot shorter and, for me, easier to read. Struggling to sort articles by date when having multiple sources. Seems different sites use different time/date standards so might have a bit of issue to get it right. Right now i get it in input order, which is chronological by site.
+
+**Thoughts:** Make code your own by writing it yourself.
+
+**Link to work:** Not wasting space on github, so no link
+
