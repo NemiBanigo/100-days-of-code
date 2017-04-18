@@ -119,3 +119,12 @@ Only did the reverse string and a semi working pig-latin today. Feels like it wi
 
 **Link to work:** Not wasting space on github, so no link
 
+### Day 16: April 18, 2017
+
+**Today's Progress**: So, jumping between projects like a mad man. Did lots of reading today on ciphers from the excellent https://inventwithpython.com/hacking/
+Then i did some tutorials on server/client sockets, which has absolutly nothing to do with ciphers. Mostly copying code while trying to understand what it does so far, will see if/where i take it. Have an idea to write some form of peer to peer program, doing something smart with the connections.
+
+**Thoughts:** My attention is about as stable as a rabbit on speed.
+
+**Link to work:** Not wasting space on github, so no link
+
