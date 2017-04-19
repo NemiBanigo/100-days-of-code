@@ -130,7 +130,7 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 
 ### Day 17: April 19, 2017
 
-**Today's Progress**: Attempting to make CLI utilities using Click today. Have some issues using PyCharm as the tutorials are all using something else.
+**Today's Progress**: Made a simple FTP client that i never tested (did not want to set up an FTP server just for testing it). Simple as in takes server/username/password/ftps as input and connects then does a dir, so no downloading/uploading. Also attempted to make CLI utilities using Click. Have some issues using PyCharm as the tutorials are all using something else.
 
 **Thoughts:** Im getting tired of tutorials written for python 2x...
 
