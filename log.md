@@ -136,4 +136,13 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 
 **Link to work:** Not wasting space on github, so no link
 
+### Day 18: April 20, 2017
+
+**Today's Progress**: Based on what i learned earlier about Click i made a password generator command line utility. It needs some polish to work correctly but all the features are there.
+
+**Thoughts:** Learning modules seems to be a lot more intense than learning python itself, soo many modules...
+
+**Link to work:** Not wasting space on github, so no link
+
+
 
