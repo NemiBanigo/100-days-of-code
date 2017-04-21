@@ -144,5 +144,13 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 
 **Link to work:** Not wasting space on github, so no link
 
+### Day 19: April 21, 2017
+
+**Today's Progress**: Complete PW gen CLI utility and managed to package it as exe, also managed to create most of an rss reader cli utility, working partially. Goal is to create several CLI utility, single purpose, that can be chained, used dayly and that are simple/portable/independend on python.
+
+**Thoughts:** No thoughs, head empty.
+
+**Link to work:** Not wasting space on github, so no link
+
 
 
