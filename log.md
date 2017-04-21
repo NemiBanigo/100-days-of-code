@@ -150,7 +150,7 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 
 **Thoughts:** No thoughs, head empty.
 
-**Link to work:** Not wasting space on github, so no link
+**Link to work:** https://github.com/Wrexthor/jacks_util
 
 
 
