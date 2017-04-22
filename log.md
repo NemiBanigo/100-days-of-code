@@ -153,4 +153,10 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
 
+### Day 20: April 22, 2017
 
+**Today's Progress**: Some fixing of the RSS reader, so from working decently it now does not work at all. Bunch of problems converting between tuple and list before pickling the data. Managed to get it working (?) but now when it reads it reads nothing. More fun to be had! Also broke some other stuff when trying to fix the features.
+
+**Thoughts:** So tired...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
