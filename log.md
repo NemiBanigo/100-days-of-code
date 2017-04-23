@@ -160,3 +160,13 @@ Then i did some tutorials on server/client sockets, which has absolutly nothing 
 **Thoughts:** So tired...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 21: April 23, 2017
+
+**Today's Progress**: So more debugging, managed to fix a few issues by old school type variable values and types to console. Also switched from Pickles to JSON as i read there is no major point in using pickle vs JSON. Not sure how accurate that is but since JSON is more universal i might just as well learn that instead.
+Fixed appending data, added clear all data. Still problems with remove item and the Live thingy is probably really broken, but thats for future Jack to sovle!
+
+**Thoughts:** Debugging is not great.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
