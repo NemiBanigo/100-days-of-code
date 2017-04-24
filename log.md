@@ -170,3 +170,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Debugging is not great.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 22: April 24, 2017
+
+**Today's Progress**: Even more debugging! I think i see the light, time to think of new features that wont work! :D
+
+**Thoughts:** Debugging, still not great...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
