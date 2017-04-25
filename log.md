@@ -179,3 +179,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Debugging, still not great...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 23: April 25, 2017
+
+**Today's Progress**: Tried and tried to get a live feature (watching for updates and posting them) to work but unless i build my own solution it does not seem like it's possible to get a simple check if there is a change on the feed (because no one use the standards in place for it...). Removed the feature and now all the other features SHOULD be working properly, even the match part. Also added some color coding that probably wont work for anyone, yay!
+
+**Thoughts:** Standards, who needs em...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
