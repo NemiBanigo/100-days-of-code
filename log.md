@@ -188,3 +188,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Standards, who needs em...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 24: April 26, 2017
+
+**Today's Progress**: Begun building a unit converter that attempts to find a unit and number in a text and then convert it. Managed to get some basic (broken) functionality working. Need more failstates when it does not find the correct values etc.
+
+**Thoughts:** Regex, listcomprehensions and other stuff, seems to be many ways to do things. Which one to learn tho...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
