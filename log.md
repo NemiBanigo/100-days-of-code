@@ -197,3 +197,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Regex, listcomprehensions and other stuff, seems to be many ways to do things. Which one to learn tho...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 25: April 27, 2017
+
+**Today's Progress**: So text parsing works, conversions work, added rounding to decimals (works). Now all that is needed is to add more than pounds and kg's.
+
+**Thoughts:** Sometimes a true/none return is better than a detailed return.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
