@@ -206,3 +206,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Sometimes a true/none return is better than a detailed return.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 26: April 28, 2017
+
+**Today's Progress**: Gave learning regex an honest try today. Understand some basics of it but not getting it to do what i want. Basically a word should follow a white space or a digit and match a variable. This will leave some room for errors for some of the unit measurements but should work a lot better than just if word in text like im using now (which for things like L for litre, will work terribly).
+
+**Thoughts:** Regex seems powerful, but slightly confusing, lots of syntax to learn.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
