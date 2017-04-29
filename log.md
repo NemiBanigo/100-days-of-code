@@ -215,3 +215,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Regex seems powerful, but slightly confusing, lots of syntax to learn.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 27: April 29, 2017
+
+**Today's Progress**: Bad focus today, built a quick stock gathering app, parsing a list for names, getting the stock price for each item and updating a list. Mostly broken so far, will save to json as well and compare to earlier prices once i get the basics working.
+
+**Thoughts:** Some days complex things are just not a good idea
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
