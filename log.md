@@ -224,3 +224,11 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Some days complex things are just not a good idea
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 28: April 30, 2017
+
+**Today's Progress**: Another bad day for coding it seems. Did some extremly minor work on the stock program.
+**Thoughts:** Some days complex things are just not a good idea
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
