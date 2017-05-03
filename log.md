@@ -240,3 +240,12 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Just doing something over and over gets you nowhere, it needs to be challenging as well.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 31: May 03, 2017
+
+**Today's Progress**: Made a whois script, which was mostly reading the documentation for a whois module and writing a few lines for it.
+It works but doest not get any decent information (seems to be that of my ISP rather than the owner of the domain).
+**Thoughts:** Bad day again, pls staph!
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
