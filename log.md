@@ -232,3 +232,11 @@ Fixed appending data, added clear all data. Still problems with remove item and 
 **Thoughts:** Some days complex things are just not a good idea
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 29-30: May 01-02, 2017
+
+**Today's Progress**: Programming on my surface without internet, no quality code resulting, but at least i did some coding. Last days i have stagnated in my development. While doing things repeatedly is a good way to learn, i also need to challenge myself more. It's not that what i have been writing is to easy, it's rather that is has been the same as ive written before. Repetition is good but i need to do something more challenging soon to continue developing. Might start with some simple graphical programming, thinking about trying out pygame..
+**Thoughts:** Just doing something over and over gets you nowhere, it needs to be challenging as well.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
