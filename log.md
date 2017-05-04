@@ -249,3 +249,10 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Thoughts:** Bad day again, pls staph!
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 32: May 04, 2017
+
+**Today's Progress**: Started following the awesome https://inventwithpython.com/pygame/chapters/ book. No free-will coding yet, still learning pygame stuff from the book, but i will count it as coding anyways as ive learned alot from it already. 
+**Thoughts:** Graphical feedback can be great for seeing results, however using coordinates can also be extremly tedious.
+
