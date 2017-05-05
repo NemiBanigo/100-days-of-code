@@ -256,3 +256,8 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Today's Progress**: Started following the awesome https://inventwithpython.com/pygame/chapters/ book. No free-will coding yet, still learning pygame stuff from the book, but i will count it as coding anyways as ive learned alot from it already. 
 **Thoughts:** Graphical feedback can be great for seeing results, however using coordinates can also be extremly tedious.
 
+
+### Day 33: May 05, 2017
+
+**Today's Progress**: Continued following the book. Almost exclusivly wrote code from the book line by line today. While i do not belive it to be a great way of learning in the long run, i do belive it can be useful from time to time to just write large amounts of code, just to see how it can be done and to get it into your fingers. Finished the memory game, although i think i made misstakes somewhere as it's acting a bit wonky.
+**Thoughts:** Lots of typing, good?
