@@ -261,3 +261,9 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 
 **Today's Progress**: Continued following the book. Almost exclusivly wrote code from the book line by line today. While i do not belive it to be a great way of learning in the long run, i do belive it can be useful from time to time to just write large amounts of code, just to see how it can be done and to get it into your fingers. Finished the memory game, although i think i made misstakes somewhere as it's acting a bit wonky.
 **Thoughts:** Lots of typing, good?
+
+
+### Day 34: May 06, 2017
+
+**Today's Progress**: First day i did not write a single line of code. I only read through the book explaining each piece i wrote yesterday. While the official rules do not allow this, i think it counts because it makes me think in terms of code and also explains some of the things i did not understand yesterday very well.
+**Thoughts:** Lots of reading, better?
