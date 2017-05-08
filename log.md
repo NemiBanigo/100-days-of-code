@@ -272,3 +272,8 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 ### Day 35: May 07, 2017
 
 **Today's Progress**: Missed todays session because i simply forgot it.
+
+
+### Day 36: May 08, 2017
+
+**Today's Progress**: Reading up on unicode, doing more reading in the python game book. Need to find a project to work on soon.
