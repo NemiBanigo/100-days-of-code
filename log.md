@@ -3,10 +3,10 @@
 ### Day 1: April 03, 2017
 
 Bit of PowerShell to get started
-+ 1 days missed so far
++ 2 days missed so far
 ```powershell
-((get-date -date 2017/04/03).AddDays(100 + 1)).ToShortDateString()
-2017-07-13
+((get-date -date 2017/04/03).AddDays(100 + 2)).ToShortDateString()
+2017-07-14
 ```
 
 **Today's Progress**: Re-learning everything about python, had to google how to define a variable.
