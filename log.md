@@ -267,3 +267,8 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 
 **Today's Progress**: First day i did not write a single line of code. I only read through the book explaining each piece i wrote yesterday. While the official rules do not allow this, i think it counts because it makes me think in terms of code and also explains some of the things i did not understand yesterday very well.
 **Thoughts:** Lots of reading, better?
+
+
+### Day 35: May 07, 2017
+
+**Today's Progress**: Missed todays session because i simply forgot it.
