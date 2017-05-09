@@ -277,3 +277,12 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 ### Day 36: May 08, 2017
 
 **Today's Progress**: Reading up on unicode, doing more reading in the python game book. Need to find a project to work on soon.
+
+
+### Day 37: May 09, 2017
+
+**Today's Progress**: Wanted to make a RDP client using an SSH tunnel, but the RDP module was python 2.x only so gave up on the idea for now. Instead built a check outgoing port script (well wrapped around a module already doing it). Might look at his code and simple make the same thing my own instead tomorrow.
+
+**Thoughts:** Acctually coding feels a lot more stimulating than reading tutorials/books
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
