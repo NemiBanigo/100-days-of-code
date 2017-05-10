@@ -288,7 +288,7 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
 
-### Day 39: May 10, 2017
+### Day 38: May 10, 2017
 
 **Today's Progress**: After doing a daily security challenge using file handles i became curious and wanted to see if i could list all file handles in windows using python. It can probably be done in a much better (and faster!) way using windows API calls or pywin32 but i settled for psutil. It's slow listing each handle for each process and i would love a quick way to get handles of a specific file but i think both requires using a more in depth module or api calls.
 
