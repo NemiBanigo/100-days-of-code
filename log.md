@@ -295,3 +295,12 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Thoughts:** Combinning windows interals with python, not as easy as i though, powershell would be much easier for this.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 39: May 11, 2017
+
+**Today's Progress**: Did a ssh tunnel script that opens rdp against the local bind address. Problem is i haven't tried it at all so it is 100% not to work. Will have to try it between 2 computers later. Need to set up an open port and a server as well.
+
+**Thoughts:** Learned a lot about ssh, bindings etc. 
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
