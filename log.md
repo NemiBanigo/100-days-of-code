@@ -304,3 +304,12 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Thoughts:** Learned a lot about ssh, bindings etc. 
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 40: May 12, 2017
+
+**Today's Progress**: Followed a guide to create a tcp flooding script and made it into a cmd util. Tried it on my server and it seems to work just fine.
+
+**Thoughts:** Nothin much
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
