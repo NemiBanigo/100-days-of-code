@@ -313,3 +313,12 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Thoughts:** Nothin much
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 41: May 13, 2017
+
+**Today's Progress**: Built a keylogger, made it work, wanted to add more features, broke it. Tomorrow i will try to implement them so it can be useful.
+
+**Thoughts:** Python versioning and packages can be a bitch sometimes.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
