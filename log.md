@@ -322,3 +322,13 @@ It works but doest not get any decent information (seems to be that of my ISP ra
 **Thoughts:** Python versioning and packages can be a bitch sometimes.
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+### Day 42-43: May 15, 2017
+
+**Today's Progress**: Continued work on keylogger. Added checking os version (will work on linux as well soon) and managed to get it running again. Having lots of problems with click. A friend recommended dockopt so will look in to that, less magic going on it seems.
+Also read a bit on writing to google sheets from python. Requires registering which defeats the mobility of the program. Will either have to look to another solution or just make fix it and then leave the fields blank.
+
+**Thoughts:** Magic behind the scenes can be bad when stuff does not work.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
