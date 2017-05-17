@@ -332,3 +332,11 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+### Day 44-45: May 17, 2017
+
+**Today's Progress**: Did some more work on keylogger and docopt. Also started a launcher project. It uses WMI to watch for process creation events, records them and, in the future, will make the user able to launch a program from the "index" of recently used programs. I might also include start menu items to make it more useful. Will be terminal based for now but might make it graphical at some point. I hope i can keep working on this project since i love using launchers and the ones currently around are never "good enough" for me.
+
+**Thoughts:** WMI is hard...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
