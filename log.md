@@ -340,3 +340,12 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 46: May 18, 2017
+
+**Today's Progress**: Got most of the stuff working (searching, writing, reading to files). Tried getting autocomplete but seems to be easier on linux. Also im questioning how good of an idea it is to use windows process creationg events. Both for the performance and the results. It seems windows has several registry keys with information on manually started applications that i can query instead. So today was a lot of failing to query the registry with winreg. I guess i realised its better to let the makers of windows track user behaviour than to try to build a tracking system..
+
+**Thoughts:** Registry is also hard...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
