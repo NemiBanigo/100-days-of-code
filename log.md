@@ -349,3 +349,11 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+### Day 47-49: May 19-21, 2017
+
+**Today's Progress**: Made reading regkeys work, also reading content of directories for filepaths AND reading target of lnk files (shortcuts). So now instead the program reads recent exe files from registry (same as recent on start menu), recent files from the recents folder (files opened) and next up is conent of start menu.
+
+**Thoughts:** So much to know about how windows works...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
