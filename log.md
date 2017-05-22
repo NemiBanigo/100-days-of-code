@@ -349,11 +349,21 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
 ### Day 47-49: May 19-21, 2017
 
 **Today's Progress**: Made reading regkeys work, also reading content of directories for filepaths AND reading target of lnk files (shortcuts). So now instead the program reads recent exe files from registry (same as recent on start menu), recent files from the recents folder (files opened) and next up is conent of start menu.
 
 **Thoughts:** So much to know about how windows works...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 50: May 22, 2017
+
+**Today's Progress**: Made getting files from folder recurcive and realised there are a LOT of files under recent fodler (20k+) so need to add a limit to how many are processed to prevent getting stuck too long at that point (most are junk files anyways).
+
+**Thoughts:** They see me learnin, they be hatin...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
