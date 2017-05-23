@@ -367,3 +367,12 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 51: May 23, 2017
+
+**Today's Progress**: Some changes to launcher so it now works decently. Started a new project (again...), a bulk renaming utility. Not tested yet and i know it's not quite working, but im on the right track. Just need to figure out how to make patterns work and how to validate them. Also needs to figure which patterns i want available.
+
+**Thoughts:** Some regex up next...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
