@@ -376,3 +376,12 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 52: May 24, 2017
+
+**Today's Progress**: Rewrote how files and filepaths are stored. Went with a dict storying key = filname and value = directory path. After making changes to the name the key is a tuple with oldname, newname. Had to rewrite a few functions to handle the new data input but feels good to have a standardized way to handle it. Next up i need to get click to work (setuptools are wonky on windows it seems) so i can test it, and then add some options for pattern matching, cusomt naming formats etc. Also added a strip exif data function for images as i have had need for it.
+
+**Thoughts:** Python is not made for windows :(
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
