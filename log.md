@@ -385,3 +385,11 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 53: May 25, 2017
+
+**Today's Progress**: Rewrote how files are stored again, realised it was easier to just use a list of objects. First time i acctually feelt i really NEEDED a class rather than just a bunch of fuctions. Good way to understand the need for them. Also now click runs and i have tried the program on a testfolder and it works (upper/lower at least).
+**Thoughts:** Class was needed, kewl!
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
