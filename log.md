@@ -389,6 +389,7 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 ### Day 53: May 25, 2017
 
 **Today's Progress**: Rewrote how files are stored again, realised it was easier to just use a list of objects. First time i acctually feelt i really NEEDED a class rather than just a bunch of fuctions. Good way to understand the need for them. Also now click runs and i have tried the program on a testfolder and it works (upper/lower at least).
+
 **Thoughts:** Class was needed, kewl!
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
@@ -396,6 +397,17 @@ Also read a bit on writing to google sheets from python. Requires registering wh
 ### Day 54: May 26, 2017
 
 **Today's Progress**: Fixed Exif remover and added a date appender function only to realised the file paths started breaking in the os.rename. Need to switch to using os.path but thats a problem for tomorrow me...
+
 **Thoughts:** I bet linux would be so much easier to develop on...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 55: May 27, 2017
+
+**Today's Progress**: Cleaned up the code and added a custom rename that will use a bunch of rules for renaming based on user input.
+Tricky to plan and trickier yet to implement but fun :)
+
+**Thoughts:** None really
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
