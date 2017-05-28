@@ -411,3 +411,12 @@ Tricky to plan and trickier yet to implement but fun :)
 **Thoughts:** None really
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 56: May 28, 2017
+
+**Today's Progress**: So there is an add date to filename function, but it only works partially. But it's something! :)
+
+**Thoughts:** i miss switch from other languages...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
