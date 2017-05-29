@@ -420,3 +420,12 @@ Tricky to plan and trickier yet to implement but fun :)
 **Thoughts:** i miss switch from other languages...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 57: May 29, 2017
+
+**Today's Progress**: Date time works and simulate works better :)
+
+**Thoughts:** Love when the better solution is shorter..
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
