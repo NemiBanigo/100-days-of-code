@@ -429,3 +429,13 @@ Tricky to plan and trickier yet to implement but fun :)
 **Thoughts:** Love when the better solution is shorter..
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 58: May 30, 2017
+
+**Today's Progress**: Colon breaks formating and i can't understand why...
+
+**Thoughts:** I hate weird bugs...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
