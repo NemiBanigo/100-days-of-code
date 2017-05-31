@@ -439,3 +439,12 @@ Tricky to plan and trickier yet to implement but fun :)
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 59: May 31, 2017
+
+**Today's Progress**: Did not attempt to fixe the colon breaks, instead added verbose output and filter functionality to filter which files should be renamed.
+
+**Thoughts:** Sometimes ignoring errors makes them go away (from your mind).
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
