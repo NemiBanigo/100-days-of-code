@@ -448,3 +448,12 @@ Tricky to plan and trickier yet to implement but fun :)
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 60: June 01, 2017
+
+**Today's Progress**: Added tofolder to move x to y folder (using a match filter for x) and a change filending function. It feels as if adding new things are quite easy now that i have a solid base to work from. I just need to come up with new things. Might also want to check that it works on linux later on, most functions are built with it in mind but something will probably break on linux.
+
+**Thoughts:** When the base is done, it's easier to add new features.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
