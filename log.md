@@ -457,3 +457,11 @@ Tricky to plan and trickier yet to implement but fun :)
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 61: June 02, 2017
+
+**Today's Progress**: Implemented append, replace and reverse, cleaned up the code more and started looking at implementing logging. Also thinking about some kind of threading to improve working with many files (have not tested performance, might be good enough already but would be cool with multi thread).
+
+**Thoughts:** Moar features! Too many options to be useful soon...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
