@@ -465,3 +465,11 @@ Tricky to plan and trickier yet to implement but fun :)
 **Thoughts:** Moar features! Too many options to be useful soon...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 62: June 03, 2017
+
+**Today's Progress**: Added a remove function and then felt done with the project (for now at least). Next up is to build a simple peer to peer client that sends chat messages between clients. Started reading up on sockets and experiment very lightly, will continue tomorrow.
+**Thoughts:** Soo tired...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
