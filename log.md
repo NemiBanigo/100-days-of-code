@@ -470,6 +470,17 @@ Tricky to plan and trickier yet to implement but fun :)
 ### Day 62: June 03, 2017
 
 **Today's Progress**: Added a remove function and then felt done with the project (for now at least). Next up is to build a simple peer to peer client that sends chat messages between clients. Started reading up on sockets and experiment very lightly, will continue tomorrow.
+
 **Thoughts:** Soo tired...
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
+
+
+### Day 63: June 04, 2017
+
+**Today's Progress**: Begun a new project with a chat server and client using sockets. Mostly read tutorials and borrowed code. Will do more experimenting tomorrow to see how it works and make it my own to be able to send more fun stuff.
+
+**Thoughts:** Sometimes you realise when going deeper that most concepts are faily simple but added to other simple concepts and eventually become very complex.
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
