@@ -484,3 +484,13 @@ Tricky to plan and trickier yet to implement but fun :)
 
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
+
+### Day 64: June 05, 2017
+
+**Today's Progress**: Made a chat server and client, or rather a socket sendin text and showing it. Will work out how to make a stand alone application for chatting next, need to figure out if i should use a client/server for each direction or one connection for both directions.
+
+**Thoughts:** Hmmm
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
+
