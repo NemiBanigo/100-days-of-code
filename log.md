@@ -494,3 +494,12 @@ Tricky to plan and trickier yet to implement but fun :)
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
 
+### Day 65: June 06, 2017
+
+**Today's Progress**: Followed a tutorial to make an IRC style chat, only to realise (when done) that it only works on linux due to how select works on io in windows (only works with sockets). Oh well, i learned a bit about how select works in python at least.
+
+**Thoughts:** Again with the windows thing...
+
+**Link to work:** https://github.com/Wrexthor/jacks_util
+
+
