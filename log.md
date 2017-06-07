@@ -503,3 +503,36 @@ Tricky to plan and trickier yet to implement but fun :)
 **Link to work:** https://github.com/Wrexthor/jacks_util
 
 
+### Day 66: June 07, 2017
+
+**Today's Progress**: So i switched language today. The reason being that i want to start playing in Unity eventually making simple games. Unity supports javascript and C#. I have worked in both but C# feels more future proof and diverse when it comes to non-web programming. Also i have a university course that begun in januari for C# (completed one last fall) and a bunch of assignments. I listed the pro's and con's of continuing python vs resuming C#.
+Pro's of C#
+Offical university grade
+Structured course with heavy OOP direction
+Can do Unity
+.Net (i mainly work on windows)
+
+Con's C#
+Have to "start over" as i have forgotten/learned python instead
+It's harder to learn (imo)
+
+Pro's of Python
+Easy to learn
+I have learned a few things already/Fresh in mind
+Incredibly diverse
+Better for Linux
+
+Con's
+No unity
+Not great on windows (works 90%, for a beginner 10% is a lot of breakage to troubleshoot)
+No real structure to my learning, i tend to abandon projects, not challenge myself enough etc, miss out on some basic CS concepts etc
+
+So i spent today remembering how to use Visual Studio, the syntax, started doing some parts of the first submission program.
+It returns quite quick, even if i have Python fresh in mind, but some things will be difficult to accept how they work (some for the better, some for worse).
+Also a bit booring working on pre-defined tasks but probably good for me.
+
+**Thoughts:** back to basics..
+
+**Link to work:** Nope
+
+
