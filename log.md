@@ -536,3 +536,11 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 **Link to work:** Nope
 
 
+### Day 67: June 08, 2017
+
+**Today's Progress**: Lots of reading, learning and not much coding today. Relearning C# takes a while it would seem (not that i knew it to begin with).
+
+**Thoughts:** SeeeeeeeeeaaaaaaShaaaaarp
+
+**Link to work:** Nope
+
