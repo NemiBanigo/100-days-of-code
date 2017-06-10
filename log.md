@@ -544,3 +544,12 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 
 **Link to work:** Nope
 
+
+### Day 68-69: June 09-10, 2017
+
+**Today's Progress**: Missed day 68, day 69 i added inheritance in constructors to subclasses in assignment and read a bit on dynamic and static binding, trying to get a feel for what it really means
+
+**Thoughts:** Tired
+
+**Link to work:** Nope
+
