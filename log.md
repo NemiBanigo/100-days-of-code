@@ -553,3 +553,12 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 
 **Link to work:** Nope
 
+
+### Day 70: June 11, 2017
+
+**Today's Progress**: Just had time for a short tutorial today
+
+**Thoughts:** Tired
+
+**Link to work:** Nope
+
