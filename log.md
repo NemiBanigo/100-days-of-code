@@ -562,3 +562,13 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 
 **Link to work:** Nope
 
+
+### Day 701 June 12, 2017
+
+**Today's Progress**: Added a bunch of constructor to all the classes, read up on constructors, understood more about constructors, CONSTRUCTORS CONSTRUCTORS CONSTRUCTORS CONSTRUCTORS EVERYWHERE!
+
+**Thoughts:** CONSTRUCTORS!
+
+**Link to work:** Nope
+
+
