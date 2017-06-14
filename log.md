@@ -579,3 +579,12 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 **Thoughts:** LEARNING!
 
 **Link to work:** Nope
+
+
+### Day 73 June 14, 2017
+
+**Today's Progress**: More tutorials today.
+
+**Thoughts:** Sometimes having a harder task creates a motivational wall.
+
+**Link to work:** Nope
