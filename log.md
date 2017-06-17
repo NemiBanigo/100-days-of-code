@@ -588,3 +588,13 @@ Also a bit booring working on pre-defined tasks but probably good for me.
 **Thoughts:** Sometimes having a harder task creates a motivational wall.
 
 **Link to work:** Nope
+
+
+### Day 74-76 June 15-17, 2017
+
+**Today's Progress**: Have had a pretty bad week creationwise, learned a lot from tutorials, but really need to get back to typing code.
+Might need to change from trying my assignment to my own projects for a while to avoid getting stuck again.
+
+**Thoughts:** So much tutorials
+
+**Link to work:** Nope
