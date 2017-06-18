@@ -598,3 +598,12 @@ Might need to change from trying my assignment to my own projects for a while to
 **Thoughts:** So much tutorials
 
 **Link to work:** Nope
+
+
+### Day 77 June 18, 2017
+
+**Today's Progress**: Trying to get started with more small projects, so today i tried out some WPF instead of windows forms. I made a simple browser (which sounds harder than it is) using the .Net browser control. Simple way to get to use some basic WPF functions and getting more used to using .Net libraries (which i feel will be very important when using C#).
+
+**Thoughts:** NOT a tutorial!
+
+**Link to work:** Nope
