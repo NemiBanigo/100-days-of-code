@@ -607,3 +607,12 @@ Might need to change from trying my assignment to my own projects for a while to
 **Thoughts:** NOT a tutorial!
 
 **Link to work:** Nope
+
+
+### Day 78 June 19, 2017
+
+**Today's Progress**: Started working on the GUI of a WPF file renamer utility. As i have already created a file renamer in python i feel it's a good way to learn c# and WPF. Converting the concepts to the "new" language shifts focus more to the language and less to the implementation of the code.
+
+**Thoughts:** GUI'ing today.
+
+**Link to work:** Nope
