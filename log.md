@@ -616,3 +616,12 @@ Might need to change from trying my assignment to my own projects for a while to
 **Thoughts:** GUI'ing today.
 
 **Link to work:** Nope
+
+
+### Day 79-84 June 20-24, 2017
+
+**Today's Progress**: Have had a few even worse days and been bouncing between projects. Not really "feeling" any of them but have had some success in following along a tutorial for a file explorer (good way not to get stuck) and, on midsummers eve when drunk, i started working on a simple password generator (because it's easy).
+
+**Thoughts:** Im bad and i feel bad...
+
+**Link to work:** Nope
