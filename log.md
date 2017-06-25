@@ -625,3 +625,13 @@ Might need to change from trying my assignment to my own projects for a while to
 **Thoughts:** Im bad and i feel bad...
 
 **Link to work:** Nope
+
+
+### Day 85 June 25, 2017
+
+**Today's Progress**: Following along a tutorial today, just writing a bunch of stuff and making sure that i understand it after having written it. In a way i think writing things you don't understand and then trying to understand it is a good way to learn more advanced patterns of coding. You realise how it all comes together in a way you would never have done it on your own.
+Im often left with the feeling that "there must be an easier way to do this!" but i doubt im right about that...
+
+**Thoughts:** So many classes and properties and inheritances and stuff....
+
+**Link to work:** Nope
