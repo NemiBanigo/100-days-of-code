@@ -635,3 +635,13 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 **Thoughts:** So many classes and properties and inheritances and stuff....
 
 **Link to work:** Nope
+
+
+### Day 86 June 25, 2017
+
+**Today's Progress**: Started on a Unity tutorial, the coding is rather minimal so far but i really feel it can be a boost to motivation so ill keep at it and coding will probably become more and more advanced as i go along
+
+**Thoughts:** Unity, fun stuff so far!
+
+**Link to work:** Nope
+
