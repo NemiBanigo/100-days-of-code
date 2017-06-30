@@ -645,3 +645,12 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 
 **Link to work:** Nope
 
+
+### Day 87-91 June 26-29, 2017
+
+**Today's Progress**: Kept working in Unity, the programming is not the main focus but it is interesting to see how it is implemented in unity and how easy it is to leverage code to get stuff done. Will continue with unity stuff since it motivates me much better than other things in C# so far.
+
+**Thoughts:** Unity, fun stuff so far!
+
+**Link to work:** Nope
+
