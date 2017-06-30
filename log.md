@@ -654,3 +654,11 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 
 **Link to work:** Nope
 
+
+### Day 92 June 30, 2017
+
+**Today's Progress**: More Unity, first game completed yesterday, begun working on a pong game tutorial today.
+
+**Thoughts:** Unity, fun stuff so far!
+
+**Link to work:** Nope
