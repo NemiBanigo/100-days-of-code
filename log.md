@@ -662,3 +662,12 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 **Thoughts:** Unity, fun stuff so far!
 
 **Link to work:** Nope
+
+
+### Day 93-94 July 1-2, 2017
+
+**Today's Progress**: Even more unity, almost completed pong (tough to convert from the tutorial javascript) and now started on a unity text based adventure game (weird huh?). Still rather light on the C# part but it's fun stuff. Tomorrow i might create more of a framework for what i need to practise in C# to get a solid in the basics.
+
+**Thoughts:** Unity everywhere!
+
+**Link to work:** Nope
