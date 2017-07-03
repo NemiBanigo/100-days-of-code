@@ -671,3 +671,12 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 **Thoughts:** Unity everywhere!
 
 **Link to work:** Nope
+
+
+### Day 95 July 3, 2017
+
+**Today's Progress**: Unity stuffz
+
+**Thoughts:** Unity everywhere!
+
+**Link to work:** Nope
