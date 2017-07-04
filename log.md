@@ -680,3 +680,12 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 **Thoughts:** Unity everywhere!
 
 **Link to work:** Nope
+
+
+### Day 96 July 4, 2017
+
+**Today's Progress**: Nearing the end of a text based adventure game in Unity.
+
+**Thoughts:** Unity everywhere!
+
+**Link to work:** Nope
