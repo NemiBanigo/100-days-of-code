@@ -689,3 +689,13 @@ Im often left with the feeling that "there must be an easier way to do this!" bu
 **Thoughts:** Unity everywhere!
 
 **Link to work:** Nope
+
+
+### Day 97 July 5, 2017
+
+**Today's Progress**: Right before i would finish the unity tutorial i come up with a project i would like to finish, typical...
+As im reading a lot about learning and breaking down skills in skill aspects i wanted to create an application to do it graphically with checkboxes to check of what has been trained. So i made a rough class diagram, went into VS and did a basic interface. Built some simple classes from the diagram and then ventured fourth to battle the WPF TreeView class. If i manage to keep motivation up this will be a project for several days, maybe even the rest of my 100 days!
+
+**Thoughts:** TreeView, not as easy as i thought..
+
+**Link to work:** Not up on github yet, might come later.
