@@ -699,3 +699,12 @@ As im reading a lot about learning and breaking down skills in skill aspects i w
 **Thoughts:** TreeView, not as easy as i thought..
 
 **Link to work:** Not up on github yet, might come later.
+
+
+### Day 98 July 6, 2017
+
+**Today's Progress**: Still batteling the treeview, managed to get checkboxes but need to get the child parent relation between items working and also get selecting rows working (now it just check/uncheck box). Might implement a single add to tree function after getting all data instead of adding each piece of data, will see...
+
+**Thoughts:** TreeView, not as easy as i thought..
+
+**Link to work:** Not up on github yet, might come later.
