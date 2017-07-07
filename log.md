@@ -708,3 +708,14 @@ As im reading a lot about learning and breaking down skills in skill aspects i w
 **Thoughts:** TreeView, not as easy as i thought..
 
 **Link to work:** Not up on github yet, might come later.
+
+
+
+### Day 99 July 7, 2017
+
+**Today's Progress**: So i redesigned my classes and removed the checkboxes. Much easier now, just need to add an icon indicating if an object is marked complete or not. I will probably find lots of broken stuff when i do.
+Also now adding/removing/marking complete works (i think), woop!
+
+**Thoughts:** Getting there...
+
+**Link to work:** Not up on github yet, might come later.
