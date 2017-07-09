@@ -719,3 +719,12 @@ Also now adding/removing/marking complete works (i think), woop!
 **Thoughts:** Getting there...
 
 **Link to work:** Not up on github yet, might come later.
+
+
+### Day 100-101 July 8-9, 2017
+
+**Today's Progress**: Busy this weekend but managed to do some coding on the train and also today late evening. There are some issues with code not being run when it should. I can't seem to get even debugging code to run inside it, not even in the else statements. Not sure why, i will keep trying tomorrow. I instead added notes being added to the skillobjects, havent tested if it works yet, need some logic to handle clearing/loading text into the text window at aproporiate times.
+
+**Thoughts:** Getting there...
+
+**Link to work:** Not up on github yet, might come later.
