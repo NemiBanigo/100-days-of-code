@@ -728,3 +728,15 @@ Also now adding/removing/marking complete works (i think), woop!
 **Thoughts:** Getting there...
 
 **Link to work:** Not up on github yet, might come later.
+
+
+### Day 12 July 10, 2017
+
+**Today's Progress**: My counting must be totalt shit, since im aparently going on until the 15th, so well above 103 days i thought i was at (must have counted very wrong at some point).
+Anyways, added some note funcitons to my program, still having trouble getting the object based on the name of the selected treeview item. Data binding is probably the solution but did not care to learn it for treeviewitems, im not that into learning that specific aspect of WPF to put in several days.
+Also started looking at some Xamarin tutorials, would be nice to get going making apps instead of just windows applications.
+
+
+**Thoughts:** 100 + ?
+
+**Link to work:** Not up on github yet, might come later.
