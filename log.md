@@ -730,12 +730,21 @@ Also now adding/removing/marking complete works (i think), woop!
 **Link to work:** Not up on github yet, might come later.
 
 
-### Day 12 July 10, 2017
+### Day 102 July 10, 2017
 
 **Today's Progress**: My counting must be totalt shit, since im aparently going on until the 15th, so well above 103 days i thought i was at (must have counted very wrong at some point).
 Anyways, added some note funcitons to my program, still having trouble getting the object based on the name of the selected treeview item. Data binding is probably the solution but did not care to learn it for treeviewitems, im not that into learning that specific aspect of WPF to put in several days.
 Also started looking at some Xamarin tutorials, would be nice to get going making apps instead of just windows applications.
 
+
+**Thoughts:** 100 + ?
+
+**Link to work:** Not up on github yet, might come later.
+
+
+### Day 103-105 July 11-13, 2017
+
+**Today's Progress**: Been fighting visual studio and the android debugger, watched some tutorials but not really learned much. So today i went back into visual studio consol app to start back at the easier parts and by chance found some great design pattern videos on youtube. haven't really touched on design patterns before so really useful to know how to aproach some kinds of problems.
 
 **Thoughts:** 100 + ?
 
