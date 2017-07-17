@@ -749,3 +749,12 @@ Also started looking at some Xamarin tutorials, would be nice to get going makin
 **Thoughts:** 100 + ?
 
 **Link to work:** Not up on github yet, might come later.
+
+
+### Day 106-109 July 14-16, 2017
+
+**Today's Progress**: So the day before the last had to be skipped and the other two days became mostly studying and not coding, but now im done! 100 days in total completed!
+
+**Thoughts:** GOAL!
+
+**Link to work:** Not up on github yet, might come later.
